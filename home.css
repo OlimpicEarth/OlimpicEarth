@@ -1,0 +1,40 @@
+@import url('https://fonts.googleapis.com/css2?family=DM+Serif+Display&display=swap');
+
+header
+{
+    text-align: center;
+}
+
+h1
+{
+    font-family: 'DM Serif Display', serif;
+    color: white;
+}
+
+.left
+{
+    text-align: left;
+}
+
+.click:hover
+{
+    filter: brightness(30%);
+}
+
+
+.right
+{
+    text-align: right;
+}
+
+body
+{
+    background-image: linear-gradient(90deg, rgb(4, 142, 235), rgb(0, 89, 255), rgb(4, 0, 255));
+    text-align: center;
+    margin: 0;
+}
+
+.full
+{
+    width: 100%;
+}
